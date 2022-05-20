@@ -1,6 +1,12 @@
 # media-production
 A project management tool for media productions.
 
+![badge](https://badgen.net/badge/tag/Audio/green)
+![badge](https://badgen.net/badge/tag/Video/yellow)
+![badge](https://badgen.net/badge/tag/Photo/red)
+![badge](https://badgen.net/badge/tag/Movies/orange)
+![badge](https://badgen.net/badge/tag/TV/cyan)
+
 ## Graphics
 I'm heavily interested in graphics. Flowcharts, Sequence, Gantt, and Class diagrams could be coded via mermaid driver:
 
