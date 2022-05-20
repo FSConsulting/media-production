@@ -8,7 +8,7 @@ A project management tool for media productions.
 ![badge](https://badgen.net/badge/tag/TV/cyan)
 
 ## Graphics
-I'm heavily interested in graphics. Flowcharts, Sequence, Gantt, and Class diagrams could be coded via mermaid driver:
+I'm heavily interested in graphics. Flowcharts, Sequence, Gantt, and Class diagrams.
 
 ```mermaid
 graph TD;
