@@ -1,2 +1,2 @@
 # media-production
-A project manager tool for media productions.
+A project management tool for media productions.
