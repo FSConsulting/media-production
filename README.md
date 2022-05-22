@@ -9,7 +9,7 @@ A project management tool for media productions.
 
 
 ## Contents :+1:
-[TOC]
+
 
 ## Graphics
 I'm heavily interested in graphics. Flowcharts, Sequence, Gantt, and Class diagrams.
