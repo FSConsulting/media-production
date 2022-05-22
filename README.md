@@ -9,7 +9,8 @@ A project management tool for media productions.
 
 
 ## Contents :+1:
-[User Story](https://github.com/FSConsulting/media-production/blob/3533848c3d2634e66350037c386a0ed41ef7f627/Docs/index.html)
+[User Story](https://github.com/FSConsulting/media-production/Docs/index.html)
+
 
 
 ## Graphics
