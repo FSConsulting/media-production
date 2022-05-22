@@ -9,6 +9,7 @@ A project management tool for media productions.
 
 
 ## Contents :+1:
+[User Story](Docs/index.html)
 
 
 ## Graphics
